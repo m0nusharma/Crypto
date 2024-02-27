@@ -1,0 +1,19 @@
+.TransCard{
+    /* From https://css.glass */
+background: rgba(40, 46, 62, 0.67);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(6.8px);
+-webkit-backdrop-filter: blur(6.8px);
+border: 1px solid rgba(40, 46, 62, 0.31);
+
+/* height: 80vh !important; */
+}
+
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+
+}
+
